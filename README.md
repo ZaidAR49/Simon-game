@@ -3,4 +3,4 @@
 - HTML
 - CSS
 - JS
-  ### this code using Jquery
+  ### this code used Jquery
