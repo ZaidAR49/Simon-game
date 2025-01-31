@@ -1,5 +1,5 @@
-#Simon game 
-##used language:
+# Simon game 
+## used language:
 - HTML
 - CSS
 - JS
